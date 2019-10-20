@@ -1799,16 +1799,8 @@ body {
 .cid-qHkoPcezEF .mbr-timeline-text {
   text-align: center;
 }
-.cid-rrZquvOj6Q {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rrZquvOj6Q .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rrZquvOj6Q .btn {
-  margin: 0 0 .5rem 0;
+.cid-qHkoPcezEF .mbr-timeline-title {
+  text-align: center;
 }
 .cid-qHiNuwUGID .navbar {
   padding: .5rem 0;
@@ -2270,7 +2262,7 @@ body {
   width: 100%;
 }
 .cid-rqVupxO70c {
-  background-image: url("../../../assets/images/2018-01-20-14.26.58-2000x1125.jpg");
+  background-image: url("../../../assets/images/views-shoot2-1080x1080.jpg");
 }
 .cid-qHoWjhVESE .modal-body .close {
   background: #1b1b1b;
